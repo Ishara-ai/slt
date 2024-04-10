@@ -2,3 +2,6 @@
 .idea/
 
 *.pyc
+
+.env/
+data/PHOENIX2014T/
